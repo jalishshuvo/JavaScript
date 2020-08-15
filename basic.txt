@@ -1,0 +1,6 @@
+1.Variable : reassiging variable use let
+2. constant : used only once
+3. Primitive Types or Value type : String, Number , Boolean,
+     Undifined, Null
+
+4. Dynamic Typing :
